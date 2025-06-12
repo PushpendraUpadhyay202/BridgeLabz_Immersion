@@ -1,6 +1,6 @@
 // Write a program that takes your height in centimeters and converts it into feet and inches
 import java.util.Scanner;
-public class Lvl1_10 {
+public class ConvertHeight_cmtofeetandInches {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         

@@ -1,5 +1,5 @@
 // Create a program to convert the distance of 10.8 kilometers to miles.
-public class Lvl1_3 {
+public class ConvertDistance {
     public static void main(String[] args) {
         double distanceInKm = 10.8;
         double conversionFactor = 1.6;

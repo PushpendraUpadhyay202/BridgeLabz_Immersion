@@ -1,5 +1,5 @@
 // Write a Program to compute the volume of Earth in km^3 and miles^3
-public class Lvl1_7 {
+public class ComputeVolumeOfEarth {
     public static void main(String[] args) {
         double radiusKm = 6378.0;
         double pi = Math.PI;

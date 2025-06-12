@@ -1,7 +1,7 @@
 // Write a new program similar to the program # 6 but take user input for Student Fee and University Discount
 
 import java.util.Scanner;
-public class Lvl1_9 {
+public class FindDiscountedFee_UserInput {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         

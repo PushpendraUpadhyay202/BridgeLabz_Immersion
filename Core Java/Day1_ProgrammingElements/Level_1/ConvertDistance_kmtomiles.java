@@ -1,6 +1,6 @@
 // Create a program to convert distance in kilometers to miles.
 import java.util.Scanner;
-public class Lvl1_8 {
+public class ConvertDistance_kmtomiles {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         

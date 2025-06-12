@@ -1,6 +1,6 @@
 // Create a program to calculate the profit and loss in number and percentage based on the cost price of INR 129 and the selling price of INR 191. 
 
-public class Lvl1_4 {
+public class CalculateProfitLoss {
     public static void main(String[] args) {
         double costPrice = 129.0;
         double sellingPrice = 191.0;

@@ -1,6 +1,6 @@
 // Create a program to find the maximum number of handshakes among N number of students.
 import java.util.Scanner;
-public class Lvl1_16 {
+public class MaximumHandshakes {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         

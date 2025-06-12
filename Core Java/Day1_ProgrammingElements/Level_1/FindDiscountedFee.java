@@ -1,7 +1,7 @@
 // The University is charging the student a fee of INR 125000 for the course. The University is willing to offer a discount of 10%.
 //  Write a program to find the discounted amount and discounted price the student will pay for the course.
 
-public class Lvl1_6 {
+public class FindDiscountedFee {
     public static void main(String[] args) {
         double fee = 125000.0;
         double discountPercent = 10.0;
