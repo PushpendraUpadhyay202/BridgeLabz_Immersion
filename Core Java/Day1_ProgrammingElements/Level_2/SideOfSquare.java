@@ -1,6 +1,6 @@
 // Write a program to find the side of the square whose parameter you read from the user 
 import java.util.Scanner;
-public class Lvl2_3 {
+public class SideOfSquare {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 

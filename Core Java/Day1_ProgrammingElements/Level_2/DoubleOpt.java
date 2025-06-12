@@ -1,6 +1,6 @@
 // Similarly, write the DoubleOpt program by taking double values and doing the same operations.
 import java.util.Scanner;
-public class Lvl2_8 {
+public class DoubleOpt {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 

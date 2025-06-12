@@ -1,7 +1,7 @@
 // Write an IntOperation program by taking a, b, and c as input values and print the following integer operations a + b *c, a * b + c, c + a / b, and a % b + c. Please also understand the precedence of the operators. 
 
 import java.util.Scanner;
-public class Lvl2_7 {
+public class IntOperation {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 

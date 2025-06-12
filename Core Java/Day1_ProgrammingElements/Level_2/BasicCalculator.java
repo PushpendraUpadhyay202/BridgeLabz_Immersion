@@ -2,7 +2,7 @@
 // The program should ask for two numbers (floating point) and perform all the operations
 
 import java.util.Scanner;
-public class Lvl2_1 {
+public class BasicCalculator {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 

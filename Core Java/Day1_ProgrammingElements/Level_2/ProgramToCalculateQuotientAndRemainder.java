@@ -1,6 +1,6 @@
 // Write a program to take 2 numbers and print their quotient and reminder
 import java.util.Scanner;
-public class Lvl2_6 {
+public class ProgramToCalculateQuotientAndRemainder {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 

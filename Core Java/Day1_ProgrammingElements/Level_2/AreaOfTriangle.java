@@ -1,7 +1,7 @@
 // Write a program that takes the base and height in cm to find the area of a triangle in square inches and square centimeters 
 
 import java.util.Scanner;
-public class Lvl2_2 {
+public class AreaOfTriangle {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 

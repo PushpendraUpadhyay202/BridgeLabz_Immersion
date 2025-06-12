@@ -1,7 +1,7 @@
 // Write a program to find the distance in yards and miles for the distance provided by the user in feet
 
 import java.util.Scanner;
-public class Lvl2_4 {
+public class ConvertDistance {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 
