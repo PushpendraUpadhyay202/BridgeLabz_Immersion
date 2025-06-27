@@ -1,4 +1,4 @@
-package com.bridgelab_oops_part2;
+package OOPS.Part2;
 
 public class BankAccountMain {
     public static void main(String[] args) {

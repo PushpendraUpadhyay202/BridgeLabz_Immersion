@@ -1,4 +1,4 @@
-package com.bridgelab_oops_part2;
+package OOPS.Part2;
 class BankAccount {
     public String accountNumber;
     protected String accountHolder;
