@@ -1,4 +1,4 @@
-package com.bridgelab_oops_part3;
+package OOPS.Part3;
 // Book.java
 public class Book {
     // Static variable shared across all books

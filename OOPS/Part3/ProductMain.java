@@ -1,4 +1,4 @@
-package com.bridgelab_oops_part3;
+package OOPS.Part3;
 //ProductMain.java
 public class ProductMain {
  public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package com.bridgelab_oops_part3;
+package OOPS.Part3;
 // LibraryApp.java
 public class BookMain {
     public static void main(String[] args) {

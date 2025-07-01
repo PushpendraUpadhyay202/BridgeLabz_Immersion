@@ -1,4 +1,4 @@
-package com.bridgelab_oops_part3;
+package OOPS.Part3;
 //Patient.java
 public class Patient {
  // Static variable shared among all patients

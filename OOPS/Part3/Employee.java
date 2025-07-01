@@ -1,4 +1,4 @@
-package com.bridgelab_oops_part3;
+package OOPS.Part3;
 //Employee.java
 public class Employee {
  // Static variable shared across all employees

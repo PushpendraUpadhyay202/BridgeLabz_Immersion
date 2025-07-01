@@ -1,4 +1,4 @@
-package com.bridgelab_oops_part3;
+package OOPS.Part3;
 //EmployeeMain.java
 public class EmployeeMain {
  public static void main(String[] args) {

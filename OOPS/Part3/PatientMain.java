@@ -1,4 +1,4 @@
-package com.bridgelab_oops_part3;
+package OOPS.Part3;
 //PatientMain.java
 public class PatientMain {
  public static void main(String[] args) {

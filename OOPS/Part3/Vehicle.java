@@ -1,4 +1,4 @@
-package com.bridgelab_oops_part3;
+package OOPS.Part3;
 //Vehicle.java
 public class Vehicle {
  // Static variable shared by all vehicles

@@ -1,4 +1,4 @@
-package com.bridgelab_oops_part3;
+package OOPS.Part3;
 //Student.java
 public class Student {
  // Static variable shared across all students

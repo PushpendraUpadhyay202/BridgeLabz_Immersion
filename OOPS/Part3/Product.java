@@ -1,4 +1,4 @@
-package com.bridgelab_oops_part3;
+package OOPS.Part3;
 //Product.java
 public class Product {
  // Static variable shared by all products

@@ -1,4 +1,4 @@
-package com.bridgelab_oops_part3;
+package OOPS.Part3;
 // BankAccount.java
 public class BankAccount {
     // Static variable
